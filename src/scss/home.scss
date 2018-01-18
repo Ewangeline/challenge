@@ -69,18 +69,17 @@ html {
 #mainPicture {
     clear: both;
     width: 670px;
-    height: 345px;
+    height: 220px;
     background-color: black;
 }
 
 #mainPicture .picture {
     position: relative;
     width: 650px;
-    height: 325px;
+    height: 200px;
     top: 10px;
     margin-left: 10px;
     background-image: url(../mainImage.jpeg);
-    background-repeat: no-repeat;
 }
 
 // Header

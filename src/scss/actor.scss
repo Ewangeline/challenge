@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	color: #061C37;
+	background: #25060B url(background.png);
+	background-repeat:repeat-x;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;
+}
+
+// Top of the page
+
+.top-page
+{
+clear:both;
+width:670px;
+height:345px;
+background-color:#160306;
+}
+
+.top-page .picture
+{
+position:relative;
+width:650px;
+height:325px;
+top:10px;
+margin-left:10px;
+background-image:url(mainImage.jpeg);
+background-repeat:no-repeat;
+
+
+
+// Content box
+
+.biography
+{
+margin-top:10px;
+width:670px;
+height:auto;
+background-color:#160306;
+padding-bottom:20px;
+}
+
+.biography .innerBox
+{
+margin-left:10px;
+position:relative;
+width:650px;
+height:auto;
+top:10px;
+background-image:url(contentBack.png);
+background-color:#FFFFFF;
+background-repeat:repeat-x;
+}
