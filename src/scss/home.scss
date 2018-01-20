@@ -1,3 +1,16 @@
+
+
+
+// Dark blue (green): #061C37 -  #AFAFAF
+// background (light): #25060B - #E4E4E4 (#717171)
+// Black (dark): #000000
+// White: #FFFFFF
+// orange (light): #C87002 #D4D4D4
+// orange (dark): #793C06 #C4C4C4
+
+
+// rgb(209, 208, 208)
+
 body {
     margin: 0;
     padding: 0;
@@ -24,6 +37,9 @@ html {
     text-align: left;
 }
 
+
+//   Navigation
+
 .home {
     display: block;
     height: auto;
@@ -32,7 +48,6 @@ html {
     width: 670px;
 }
 
-//   Navigation
 .topNaviagationLink {
     text-align: center;
     position: relative;
