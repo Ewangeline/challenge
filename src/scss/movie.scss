@@ -62,8 +62,8 @@ body {
 
 
 .container {
-    padding-right: 5em;
-    padding-left: 5em;
+    padding-right: 2em;
+    padding-left: 2em;
 }
 
 img.resize {
@@ -72,3 +72,87 @@ img.resize {
     border: #000000 10px solid;
 
   }
+.card-title {
+    text-align: center;
+}
+
+
+// Top of the page
+
+.top-page
+{
+clear:both;
+width:670px;
+height:345px;
+background-color:#000000;
+}
+
+
+
+.top-page .actor-info
+{
+position: relative;
+width:650px;
+height:325px;
+top:10px;
+margin-left:10px;
+background-image:url(mainImage.jpeg);
+background-repeat:no-repeat;
+}
+
+.top-page p {
+	font-size: 2em;
+	text-align: end;
+	padding-right: 1em;
+}
+
+.name {
+	margin-top: 1em;
+}
+
+.top-page img {
+	margin-top: 2em;
+}
+
+.hh{
+	text-align: center;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+
+
+
+// Content box
+
+.biography
+{
+margin-top:10px;
+width:670px;
+height:auto;
+background-color:#000000;
+padding-bottom: 20px;
+}
+
+.biography .innerBox
+{
+margin-left:10px;
+position:relative;
+width:650px;
+height:auto;
+top:10px;
+background-image:url(contentBack.png);
+background-color:#FFFFFF;
+background-repeat:repeat-x;
+padding: 0.5em;
+}
+
+.plot {
+    font-size: 1em;
+}
+
+.hhhh {
+    text-align: center;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
